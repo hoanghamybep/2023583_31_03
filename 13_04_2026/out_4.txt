@@ -1,0 +1,8 @@
+total 76
+-rwxrwxrwx 1 mingoose0243 mingoose0243 16840 Apr 13 23:11 chat-server
+-rwxrwxrwx 1 mingoose0243 mingoose0243 16704 Apr 13 23:24 chat_server
+-rwxrwxrwx 1 mingoose0243 mingoose0243  4277 Apr 13 23:23 chat_server.c
+-rwxrwxrwx 1 mingoose0243 mingoose0243    40 Apr 13 23:44 database.txt
+-rwxrwxrwx 1 mingoose0243 mingoose0243     0 Apr 13 23:51 out_4.txt
+-rwxrwxrwx 1 mingoose0243 mingoose0243 16968 Apr 13 23:49 telnet_server
+-rwxrwxrwx 1 mingoose0243 mingoose0243  5105 Apr 13 23:49 telnet_server.c
